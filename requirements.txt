@@ -1,0 +1,9 @@
+# Project 9 – Modern History & Archival Chronicle Assistant
+# Technology Stack Requirements
+
+pymupdf>=1.24.0
+sentence-transformers>=2.6.0
+chromadb>=0.4.24
+python-dotenv>=1.0.0
+numpy>=1.24.0
+torch>=2.0.0
