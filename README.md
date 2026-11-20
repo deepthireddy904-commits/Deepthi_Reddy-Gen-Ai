@@ -136,7 +136,12 @@ python ingest.py --force
 python main.py
 ```
 
-### 3. Query Custom Questions
+### 3. Run Automated Unit Test Suite
+```bash
+python -m unittest test_rag.py
+```
+
+### 4. Query Custom Questions
 ```bash
 # Direct CLI question:
 python rag.py "According to the text, what was the ruling gradient on the Bhor Ghat incline?"
